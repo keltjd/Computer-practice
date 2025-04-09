@@ -1,0 +1,65 @@
+D:\КП\03.04.2025_class\bin\Debug\net7.0-windows\03.04.2025_class.exe
+D:\КП\03.04.2025_class\bin\Debug\net7.0-windows\03.04.2025_class.deps.json
+D:\КП\03.04.2025_class\bin\Debug\net7.0-windows\03.04.2025_class.runtimeconfig.json
+D:\КП\03.04.2025_class\bin\Debug\net7.0-windows\03.04.2025_class.dll
+D:\КП\03.04.2025_class\bin\Debug\net7.0-windows\03.04.2025_class.pdb
+D:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.csproj.AssemblyReference.cache
+D:\КП\03.04.2025_class\obj\Debug\net7.0-windows\_03._04._2025_class.Form1.resources
+D:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.csproj.GenerateResource.cache
+D:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.GeneratedMSBuildEditorConfig.editorconfig
+D:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.AssemblyInfoInputs.cache
+D:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.AssemblyInfo.cs
+D:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.csproj.CoreCompileInputs.cache
+D:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.dll
+D:\КП\03.04.2025_class\obj\Debug\net7.0-windows\refint\03.04.2025_class.dll
+D:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.pdb
+D:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.genruntimeconfig.cache
+D:\КП\03.04.2025_class\obj\Debug\net7.0-windows\ref\03.04.2025_class.dll
+E:\КП\03.04.2025_class\bin\Debug\net7.0-windows\03.04.2025_class.exe
+E:\КП\03.04.2025_class\bin\Debug\net7.0-windows\03.04.2025_class.deps.json
+E:\КП\03.04.2025_class\bin\Debug\net7.0-windows\03.04.2025_class.runtimeconfig.json
+E:\КП\03.04.2025_class\bin\Debug\net7.0-windows\03.04.2025_class.dll
+E:\КП\03.04.2025_class\bin\Debug\net7.0-windows\03.04.2025_class.pdb
+E:\КП\03.04.2025_class\obj\Debug\net7.0-windows\_03._04._2025_class.Form1.resources
+E:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.csproj.GenerateResource.cache
+E:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.GeneratedMSBuildEditorConfig.editorconfig
+E:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.AssemblyInfoInputs.cache
+E:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.AssemblyInfo.cs
+E:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.csproj.CoreCompileInputs.cache
+E:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.dll
+E:\КП\03.04.2025_class\obj\Debug\net7.0-windows\refint\03.04.2025_class.dll
+E:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.pdb
+E:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.genruntimeconfig.cache
+E:\КП\03.04.2025_class\obj\Debug\net7.0-windows\ref\03.04.2025_class.dll
+C:\Users\di120\OneDrive\Рабочий стол\удалю сегодня\03.04.2025_class\bin\Debug\net7.0-windows\03.04.2025_class.exe
+C:\Users\di120\OneDrive\Рабочий стол\удалю сегодня\03.04.2025_class\bin\Debug\net7.0-windows\03.04.2025_class.deps.json
+C:\Users\di120\OneDrive\Рабочий стол\удалю сегодня\03.04.2025_class\bin\Debug\net7.0-windows\03.04.2025_class.runtimeconfig.json
+C:\Users\di120\OneDrive\Рабочий стол\удалю сегодня\03.04.2025_class\bin\Debug\net7.0-windows\03.04.2025_class.dll
+C:\Users\di120\OneDrive\Рабочий стол\удалю сегодня\03.04.2025_class\bin\Debug\net7.0-windows\03.04.2025_class.pdb
+C:\Users\di120\OneDrive\Рабочий стол\удалю сегодня\03.04.2025_class\obj\Debug\net7.0-windows\_03._04._2025_class.Form1.resources
+C:\Users\di120\OneDrive\Рабочий стол\удалю сегодня\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.csproj.GenerateResource.cache
+C:\Users\di120\OneDrive\Рабочий стол\удалю сегодня\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\di120\OneDrive\Рабочий стол\удалю сегодня\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.AssemblyInfoInputs.cache
+C:\Users\di120\OneDrive\Рабочий стол\удалю сегодня\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.AssemblyInfo.cs
+C:\Users\di120\OneDrive\Рабочий стол\удалю сегодня\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.csproj.CoreCompileInputs.cache
+C:\Users\di120\OneDrive\Рабочий стол\удалю сегодня\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.dll
+C:\Users\di120\OneDrive\Рабочий стол\удалю сегодня\03.04.2025_class\obj\Debug\net7.0-windows\refint\03.04.2025_class.dll
+C:\Users\di120\OneDrive\Рабочий стол\удалю сегодня\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.pdb
+C:\Users\di120\OneDrive\Рабочий стол\удалю сегодня\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.genruntimeconfig.cache
+C:\Users\di120\OneDrive\Рабочий стол\удалю сегодня\03.04.2025_class\obj\Debug\net7.0-windows\ref\03.04.2025_class.dll
+F:\КП\03.04.2025_class\bin\Debug\net7.0-windows\03.04.2025_class.exe
+F:\КП\03.04.2025_class\bin\Debug\net7.0-windows\03.04.2025_class.deps.json
+F:\КП\03.04.2025_class\bin\Debug\net7.0-windows\03.04.2025_class.runtimeconfig.json
+F:\КП\03.04.2025_class\bin\Debug\net7.0-windows\03.04.2025_class.dll
+F:\КП\03.04.2025_class\bin\Debug\net7.0-windows\03.04.2025_class.pdb
+F:\КП\03.04.2025_class\obj\Debug\net7.0-windows\_03._04._2025_class.Form1.resources
+F:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.csproj.GenerateResource.cache
+F:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.GeneratedMSBuildEditorConfig.editorconfig
+F:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.AssemblyInfoInputs.cache
+F:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.AssemblyInfo.cs
+F:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.csproj.CoreCompileInputs.cache
+F:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.dll
+F:\КП\03.04.2025_class\obj\Debug\net7.0-windows\refint\03.04.2025_class.dll
+F:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.pdb
+F:\КП\03.04.2025_class\obj\Debug\net7.0-windows\03.04.2025_class.genruntimeconfig.cache
+F:\КП\03.04.2025_class\obj\Debug\net7.0-windows\ref\03.04.2025_class.dll
